@@ -12,7 +12,7 @@ throw this adventure!! 😁🤟🏻
 **Languages: ES | EN | IT | FR**
 
 ![LaloNimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaloNimo)](https://github.com/rahulkarda/readme-components)
-![Profile views](https://gpvc.arturio.dev/[LaloNimo])
+
 ![Github Followers](https://img.shields.io/github/followers/LaloNimo?label=Followers&logo=GitHub&style=for-the-badge)
 
 
